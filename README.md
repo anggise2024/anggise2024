@@ -1,6 +1,6 @@
 # Halo, Saya Anggi Setyawan 👋
 
-Saya lulusan **Matematika** dari Universitas Ahmad Dahlan. Saya adalah seseorang yang antusias dalam dunia matematika dan data, senang menjelajahi berbagai bidang di dalamnya.Saat ini saya menjadi freelance berkaitan tentang data dan teknologi AI, dan saya juga sedang mempelajari web developmen wordpress dan sedang mengikut berbagai bootcamp. antausias untuk belajar bahasa asing (Arab dan Anggris).
+Seorang lulusan **Matematika** dari Universitas Ahmad Dahlan. Saya adalah seseorang yang antusias dalam dunia matematika dan data, senang menjelajahi berbagai bidang di dalamnya. Saat ini saya menjadi freelancer berkaitan tentang data dan teknologi AI, dan saya juga sedang mempelajari web developmen wordpress dan sedang mengikut bootcamp data analis di [myskill](https://myskill.id/). Antausias untuk belajar bahasa asing (Arab dan Anggris).
 
 ## Pengalaman Kerja
 - 👨‍🏫 Saat ini bekerja sebagai freelancer terkait data dan teknologi AI.
@@ -16,8 +16,8 @@ Saya lulusan **Matematika** dari Universitas Ahmad Dahlan. Saya adalah seseorang
 
 ## Sertifikat
 Beberapa sertifikat yang telah saya peroleh:
-1. [Excel ](https://github.com/anggise2023/anggise2023/tree/main/Sertification/excel) - Sertifikat untuk pengetahuan dalam menggunakan Microsoft Excel basic, intermedate dan advance.
-3. [Junior Data Scientist](https://github.com/anggise2023/anggise2023/tree/main/Sertification/JUnior%20Data%20Scientist%20BNSP) - Sertifikat sebagai Junior Data Scientist, menunjukkan pemahaman dan keterampilan dalam analisis data.
+1. [Excel](https://github.com/anggise2023/anggise2023/tree/main/Sertification/excel) - Sertifikat untuk pengetahuan dalam menggunakan Microsoft Excel basic, intermedate dan advance.
+3. [Junior Data Scientist](https://github.com/anggise2023/anggise2023/tree/main/Sertification/JUnior%20Data%20Scientist%20BNSP) - Sertifikat sebagai Junior Data Scientist, menunjukkan pemahaman dan keterampilan dalam mengolah data.
 
 ## Temukan Saya Online 🌐
 Anda dapat terhubung dengan saya di berbagai platform:
