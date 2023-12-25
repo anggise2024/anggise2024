@@ -18,7 +18,26 @@ Saya lulusan **Matematika** dari Universitas Ahmad Dahlan. Saya adalah seseorang
 - 💻 Menguasai Python, SQL (basic), R, Orange Data Mining, dan Microsoft Office.
 - 🛠️ Berpengalaman menggunakan berbagai macam tools editing seperti Photoshop, Figma, dan Canva.
 
+## Sertifikat
 
+Beberapa sertifikat yang telah saya peroleh:
+
+1. [Excel Basic](tautan_excel_basic) - Sertifikat untuk pengetahuan dasar dalam menggunakan Microsoft Excel.
+2. [Excel Intermediate](tautan_excel_intermediate) - Sertifikat untuk pengetahuan tingkat menengah dalam menggunakan Microsoft Excel.
+3. [Excel Advanced](tautan_excel_advanced) - Sertifikat untuk pengetahuan tingkat lanjut dalam menggunakan Microsoft Excel.
+4. [Junior Data Scientist](tautan_junior_data_scientist) - Sertifikat sebagai Junior Data Scientist, menunjukkan pemahaman dan keterampilan dalam analisis data.
+
+Pastikan untuk menggantikan tautan `tautan_...` dengan tautan asli ke setiap sertifikat yang Anda miliki. Ini akan memberikan keaslian dan memungkinkan orang lain untuk memverifikasi sertifikat-sertifikat tersebut.
+
+## Temukan Saya Online 🌐
+
+Anda dapat terhubung dengan saya di berbagai platform:
+
+- 🐦 [Twitter](https://twitter.com/AnggiSetyawan)
+- 💼 [LinkedIn](https://www.linkedin.com/in/AnggiSetyawan/)
+- 🌐 [Website atau Blog](https://www.anggiset.com)
+
+Terima kasih telah melihat profil saya. Saya selalu terbuka untuk berkolaborasi dan berbagi pengetahuan. Mari terhubung! 😊
 
 
 
