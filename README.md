@@ -7,7 +7,7 @@
 # Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Saya Anggi Setyawan 
 
 <p align="justify">
- Seorang lulusan **Matematika** dari Universitas Ahmad Dahlan. Saya adalah seseorang yang antusias dalam dunia matematika dan data, senang menjelajahi berbagai bidang di dalamnya. Saat ini saya menjadi freelancer berkaitan tentang data dan teknologi AI, dan saya juga sedang mempelajari web developmen wordpress dan sedang mengikut bootcamp data analis di myskill. Antausias untuk belajar bahasa asing (Arab dan Anggris).
+ Seorang lulusan **Matematika** dari Universitas Ahmad Dahlan. Saya adalah seseorang yang antusias dalam dunia matematika dan data, senang menjelajahi berbagai bidang di dalamnya. Saat ini saya menjadi freelancer berkaitan tentang data dan teknologi AI, dan saya juga sedang mempelajari web developmen wordpress dan sedang mengikut bootcamp data analis di myskill. Antausias untuk belajar bahasa asing (Arab dan Inggris).
   
 </p>
 
