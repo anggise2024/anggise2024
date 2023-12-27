@@ -1,29 +1,35 @@
-# Halo, Saya Anggi Setyawan 👋
 
-Seorang lulusan **Matematika** dari Universitas Ahmad Dahlan. Saya adalah seseorang yang antusias dalam dunia matematika dan data, senang menjelajahi berbagai bidang di dalamnya. Saat ini saya menjadi freelancer berkaitan tentang data dan teknologi AI, dan saya juga sedang mempelajari web developmen wordpress dan sedang mengikut bootcamp data analis di [myskill](https://myskill.id/). Antausias untuk belajar bahasa asing (Arab dan Anggris).
 
-## Pengalaman Kerja
-- 👨‍🏫 Saat ini bekerja sebagai freelancer terkait data dan teknologi AI.
-- 👨‍🏫 Berpengalaman sebagai tentor di Pusat Studi Data Sains selama 1 tahun.
-- 👨‍🏫 Sebelumnya menjadi Asisten Praktikum Algoritma Pemrograman selama 6 bulan.
+<img align='right' src = "https://github-readme-stats.vercel.app/api?username=anggise2023&show_icons=true&show_icons=true&title_color=fff&icon_color=0BB7F3&text_color=9f9f9f&bg_color=151515&line_height=15">
 
-## Proyek
-- 🚀 Mengikuti program MSIB Kampus Merdeka di Orbit Future Academy selama 6 bulan dengan proyek akhir sentimen analisis.
-- 📊 Proyek **analisis sentimen terhadap Capres dan Cawapres 2024** [disni](https://github.com/anggise2023/sentiment_analysis).
-- 📊 Proyek **data analis sales insight** with-excel+tableau [disini](https://github.com/anggise2023/Sales-insight-Data-analysis-Tableau)
-- 📊 Proyek **Covid-19-Analysis** with-excel+tableau [disini](https://github.com/anggise2023/Covid-19-Analysis-with-Excel-and-Tablue)
-- 📊 Proyek **analisis bank marketing** with-python [disini](https://github.com/anggise2023/bank_martketing)
 
-## Sertifikat
-Beberapa sertifikat yang telah saya peroleh:
-1. [Excel](https://github.com/anggise2023/anggise2023/tree/main/Sertification/excel) - Sertifikat untuk pengetahuan dalam menggunakan Microsoft Excel basic, intermedate dan advance.
-3. [Junior Data Scientist](https://github.com/anggise2023/anggise2023/tree/main/Sertification/JUnior%20Data%20Scientist%20BNSP) - Sertifikat sebagai Junior Data Scientist, menunjukkan pemahaman dan keterampilan dalam mengolah data.
 
-## Temukan Saya Online 🌐
-Anda dapat terhubung dengan saya di berbagai platform:
-- 💼 [LinkedIn](https://www.linkedin.com/in/anggisetyawan/)
-- 🌐 [Website](https://medium.com/@anggisetyawanlearn)
-- 📷 [Instagram](https://www.instagram.com/anggiboy._/)
+# Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Saya Anggi Setyawan 
 
-Terima kasih telah melihat profil saya. Saya selalu terbuka untuk berkolaborasi dan berbagi pengetahuan. Mari terhubung! 😊
+<p align="justify">
+ Seorang lulusan **Matematika** dari Universitas Ahmad Dahlan. Saya adalah seseorang yang antusias dalam dunia matematika dan data, senang menjelajahi berbagai bidang di dalamnya. Saat ini saya menjadi freelancer berkaitan tentang data dan teknologi AI, dan saya juga sedang mempelajari web developmen wordpress dan sedang mengikut bootcamp data analis di [myskill](https://myskill.id/). Antausias untuk belajar bahasa asing (Arab dan Anggris).
+  
+</p>
 
+<br> 
+<br>
+
+<div>
+<img align='right' src = "https://github-readme-stats.vercel.app/api/top-langs/?username=anggise2023&show_icons=true&show_icons=true&title_color=fff&icon_color=0BB7F3&text_color=9f9f9f&bg_color=151515&line_height=15&line_width=15">
+</div>
+
+
+### 📱 You Can Reach Me at
+  <a href="https://www.linkedin.com/in/anggisetyawan/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/anggise2023" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
+  <a href="https://www.instagram.com/anggiboy._/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/instagram-%23f21d37.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://www.facebook.com/anggi.setyawan.3194" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/facebook-%231da1f2.svg?&style=for-the-badge&logo=facebook&logoColor=white" /></a>
+
+<br>
+
+<p align="center">
+  <a href="https://github.com/anggise2023?tab=followers">
+    <img src="https://img.shields.io/github/followers/anggise2023?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
+  </a>
+   <a href="https://www.instagram.com/anggiboy._/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/instagram-%23f21d37.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
+</p>
