@@ -4,10 +4,14 @@
 
 
 
-# Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Saya Anggi Setyawan 
+# Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'am Anggi Setyawan. 
 
 <p align="justify">
- Seorang lulusan Matematika dari Universitas Ahmad Dahlan. Saya adalah seseorang yang antusias dalam dunia matematika dan data, senang menjelajahi berbagai bidang di dalamnya. Saat ini saya menjadi freelancer berkaitan tentang data dan teknologi AI, dan saya juga sedang mempelajari web developmen wordpress dan sedang mengikut bootcamp data analis di myskill. Antausias untuk belajar bahasa asing (Arab dan Inggris).
+Hello there! I'm a Mathematics graduate from Ahmad Dahlan University, driven by a deep passion for the realms of mathematics and data. As a dedicated freelancer specializing in data and AI technology, I relish exploring the diverse facets of these fields. Currently, I am immersing myself in the world of web development with a focus on WordPress, all while keeping a keen eye on the rapid advancements in the data landscape.
+
+Armed with an Associate Data Science certification from BNSP, I am committed to continually sharpening my skills and expanding my knowledge to navigate the intricacies of data. Moreover, my enthusiasm for learning foreign languages, particularly Arabic and English, serves as a pivotal aspect of my personal and professional growth.
+
+I believe that every challenge is an opportunity to grow and enhance oneself. Ready to collaborate and delve deeper into the worlds of mathematics, data, and technology, I look forward to embracing new possibilities together.
   
 </p>
 
@@ -33,3 +37,9 @@
   </a>
    <a href="https://www.instagram.com/anggiboy._/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/instagram-%23f21d37.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
+
+
+
+
+<h3 align="left">Languages and Tools</h3>
+<p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> <img src="https://upload.vectorlogo.zone/logos/tableau/images/113a311a-6d5d-4b7e-9193-79807e4844e3.svg" alt="tableau" width="90" height="40"/> </a> </p>
