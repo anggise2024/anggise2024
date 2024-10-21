@@ -19,7 +19,7 @@ I believe that every challenge is an opportunity to grow and enhance oneself. Re
 <br>
 
 <div>
-<img align='right' src = "https://github-readme-stats.vercel.app/api/top-langs/?username=anggise2023&show_icons=true&show_icons=true&title_color=fff&icon_color=0BB7F3&text_color=9f9f9f&bg_color=151515&line_height=15&line_width=15">
+<img align='right' src = "https://github-readme-stats.vercel.app/api/top-langs/?username=anggise2024&show_icons=true&show_icons=true&title_color=fff&icon_color=0BB7F3&text_color=9f9f9f&bg_color=151515&line_height=15&line_width=15">
 </div>
 
 
@@ -32,8 +32,8 @@ I believe that every challenge is an opportunity to grow and enhance oneself. Re
 <br>
 
 <p align="center">
-  <a href="https://github.com/anggise2023?tab=followers">
-    <img src="https://img.shields.io/github/followers/anggise2023?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
+  <a href="https://github.com/anggise2024?tab=followers">
+    <img src="https://img.shields.io/github/followers/anggise2024?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
   </a>
    <a href="https://www.instagram.com/anggiboy._/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/instagram-%23f21d37.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
